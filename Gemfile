@@ -14,6 +14,8 @@ group :development do
 	gem 'sqlite3'
 end
 
+gem 'newrelic_rpm'
+
 
 gem 'sass-rails', '~> 4.0.3'
 # Use Uglifier as compressor for JavaScript assets
